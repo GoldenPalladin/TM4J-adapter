@@ -1,0 +1,13 @@
+{"projectKey": "SIS", 
+"testCaseKey": "SIS-T169", 
+"status": "Pass", 
+"comment": "pid:9893018", 
+"assignedTo": "dvallabhuni", 
+"executedBy": "dvallabhuni",
+"actualStartDate": "2019-07-28T00:57:57",
+"issueLinks": [], 
+"scriptResults": [{"index": 0, "status": "Pass", "comment": "XX"}, 
+{"index": 1, "status": "Pass", "comment": "XX", "action":"XX"},
+ {"index": 2, "status": "Pass", "comment": "XX", "action":"XX"}, 
+ {"index": 3, "status": "Pass", "comment": "XX", "action":"XX"}, 
+ {"index": 4, "status": "Pass", "comment": "XX", "action":"XX"}]}

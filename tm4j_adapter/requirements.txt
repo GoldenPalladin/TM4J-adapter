@@ -1,0 +1,5 @@
+requests
+behave
+xmltodict
+urllib3
+splunk_handler
